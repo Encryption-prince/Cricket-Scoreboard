@@ -16,3 +16,5 @@ Welcome to the **Cricket Scoreboard** repository! This application is designed t
 - **Key Highlights:** Comprehensive match summary with key highlights.
 - **Team Management:** Easily manage teams and players.
 - **Historical Data:** Access past match data and player performances.
+
+#### Live Link : https://encryption-prince.github.io/Cricket-Scoreboard/
